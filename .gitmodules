@@ -1,0 +1,9 @@
+[submodule "microsservices/ems-sensors-temperature-monitoring"]
+	path = microsservices/ems-sensors-temperature-monitoring
+	url = https://github.com/zkauansantos/ems-sensors-temperature-monitoring
+[submodule "microsservices/ems-sensors-temperature-processing"]
+	path = microsservices/ems-sensors-temperature-processing
+	url = https://github.com/zkauansantos/ems-sensors-temperature-processing
+[submodule "microsservices/ems-sensors-device-management"]
+	path = microsservices/ems-sensors-device-management
+	url = https://github.com/zkauansantos/ems-sensors-device-management
